@@ -1,0 +1,9 @@
+
+
+    boot system - This is a global command that allows you to specify the source of the IOS software image to load. If you configure more than one source, attempts are made to load the IOS from the first command in the configuration to the last successively. If the first fails, the second boot command is used.
+
+    boot system rom - Loads IOS from ROM.
+
+    boot system flash - Loads the first file from flash memory.
+
+    boot system tftp < tftp_address > - Loads IOS with a filename from a TFTP server.
