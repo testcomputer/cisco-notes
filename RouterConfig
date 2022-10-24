@@ -7,3 +7,14 @@ You must have 1 or both of these cables to complete this task:
     usb-serial-adapter
 
 To connect your laptop to the console port on your router:
+
+
+1. configure terminal
+
+2. interface gigabitethernet slot/port
+
+3. ip address ip-address mask
+
+4. no shutdown
+
+5. exit 
