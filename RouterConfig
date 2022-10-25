@@ -18,3 +18,15 @@ To connect your laptop to the console port on your router:
 4. no shutdown
 
 5. exit 
+
+
+
+    ARP (Address Resolution Protocol) – used to associate an IP address with a MAC address.
+    IP (Internet Protocol) – used to deliver packets from the source host to the destination host based on the IP addresses.
+    ICMP (Internet Control Message Protocol) – used to detects and reports network error conditions. Used in ping.
+    TCP (Transmission Control Protocol) – a connection-oriented protocol that enables reliable data transfer between two computers.
+    UDP (User Datagram Protocol) – a connectionless protocol for data transfer. Since a session is not created before the data transfer, there is no guarantee of data delivery.
+    FTP (File Transfer Protocol) – used for file transfers from one host to another.
+    Telnet (Telecommunications Network) – used to connect and issue commands on a remote computer.
+    DNS (Domain Name System) – used for host names to the IP address resolution.
+    HTTP (Hypertext Transfer Protocol) – used to transfer files (text, graphic images, sound, video, and other multimedia files) on the World Wide Web.
