@@ -7,3 +7,17 @@
     boot system flash - Loads the first file from flash memory.
 
     boot system tftp < tftp_address > - Loads IOS with a filename from a TFTP server.
+
+
+
+i. Telnet, FTP, and TFTP:
+
+1. Telnet is used for terminal emulation that runs programs remotely. Telnet uses TCP/IP protocol.
+
+2. Telnet requires a username and password to access.
+
+3. FTP (File Transfer Protocol) is a connection oriented protocol. It uses TCP/IP for file transfer. Compare this with TFTP (Trivial File Transfer Protocol) that uses UDP (Connectionless protocol). SNMP uses UDP over IP. Tracert, Ping uses ICMP as their base protocol. FTP is used to transfer files.
+
+Both FTP and Telnet are client-server protocols. Note that TCP/IP is a client server oriented protocol.
+
+
