@@ -46,3 +46,18 @@ Explain the role and function of network components
 
 simulated lab (sim) – a lab scenario where you can access and configure the devices. You job is to fix the problem by reconfiguring the devices:
 
+
+
+Using the OSI model to discuss networking concepts has the following advantages:
+
+Provides a common language or reference point between network professionals
+
+Divides networking tasks into logical layers for easier comprehension
+
+Allows specialization of features at different levels
+
+Aids in troubleshooting
+
+Promotes standards interoperability between networks and devices
+
+Provides modularity in networking features (developers can change features without changing the entire approach)
