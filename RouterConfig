@@ -37,4 +37,16 @@ IP address with subnet mask decimal notation
 
 
 
+view current configuration (RAM) Router # show running-config or write
+terminal
+view saved (startup) configuration Router # show config or show startup-
+config
+view basic files system (flash) Router # show flash (or dir)
+view router utilization Router # show processes
+disable CDP for entire router Router (config) # no cdp run
+disable CDP on an interface Router (config-int) # no cdp enable
+show interfaces and ip addressing Router > show ip interface brief
+show routing table Router > show ip route
+show routing protocols for ip Router # show ip protocol
+show ip arp table Router # show ip arp
 
