@@ -4,3 +4,7 @@ UDP - User Diagram Protocol
 
 HTTP = TCP 80
 TFTP = UDP 69
+
+  Layer 2 it is known as a Frame
+  Layer 3 Packet
+  Layer 4 Segment
