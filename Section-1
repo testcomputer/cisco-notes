@@ -1,0 +1,6 @@
+TCP - Transmission Control Protocol
+UDP - User Diagram Protocol
+# of Ports 65,535
+
+HTTP = TCP 80
+TFTP = UDP 69
