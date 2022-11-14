@@ -50,3 +50,11 @@ show routing table Router > show ip route
 show routing protocols for ip Router # show ip protocol
 show ip arp table Router # show ip arp
 
+
+
+Given that ssh works but telnet doesn't, there are a few options:
+
+    A firewall is blocking the traffic on the server
+    Telnet is not running on the server
+    Your connections are routed through a gateway that filters out telnet traffic
+    You typed different ip addresses when you tried to connect via ssh / telnet
