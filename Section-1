@@ -19,3 +19,9 @@ Ethernet equipment. Standard
 Illustrate the hierarchical network design model and architecture using the access, distribution, and core layers
 Compare and contrast the various hardware and software switching mechanisms and operation, while defining the Ternary Content
 Addressable Memory (TCAM) and Content Addressable Memory (CAM), along with process switching, fast switching, and Cisco Express Forwarding concepts
+
+
+
+Troubleshoot Layer 2 connectivity using VLANs and trunking
+Implementation of redundant switched networks using Spanning Tree Protocol
+Troubleshooting link aggregation using Etherchannel
