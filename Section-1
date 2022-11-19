@@ -29,3 +29,12 @@ Troubleshooting link aggregation using Etherchannel
 
 Run ping to verify the network is live. 
 Run a network stress test to connect the system
+
+
+
+
+FTP 20/21
+SSH 22
+TELNET 23
+SMTP 25
+DNS 53
