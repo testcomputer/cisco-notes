@@ -38,3 +38,9 @@ SSH 22
 TELNET 23
 SMTP 25
 DNS 53
+DHCP 67/68
+TFTP 69
+
+
+Layer 2 Address = MAC address
+Layer 3 address = IP address
