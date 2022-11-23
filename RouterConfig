@@ -58,3 +58,6 @@ Given that ssh works but telnet doesn't, there are a few options:
     Telnet is not running on the server
     Your connections are routed through a gateway that filters out telnet traffic
     You typed different ip addresses when you tried to connect via ssh / telnet
+
+
+Packet Tracer practice. Record ALL commands and practice in a virtual environment
