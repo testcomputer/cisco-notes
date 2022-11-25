@@ -23,3 +23,7 @@ Private or Dynamic ports 49,152 - 65,535
 68 [UDP] Dynamic Host Configuration Protocol (DHCP) - Client
 
 69 [UDP] Trvial File Transfer Protocol (TFTP)
+
+80 [TCP] Hypertext Transfer Protocol (HTTP)
+
+110 [TCP] Post Office Protocol version 3 (POP3)
