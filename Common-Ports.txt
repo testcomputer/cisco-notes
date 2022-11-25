@@ -13,3 +13,10 @@ Private or Dynamic ports 49,152 - 65,535
 22 TCP Secure Shell SSH
 
 23 Telnet Telecommunication Network
+
+25 TCP Simple Mail Transfer Prtocol (SMTP)
+
+53 UDP/TCP Domain Name Service (DNS)
+
+67 UDP Dynamic Host Configuration Protocol (DHCP) - Server
+
