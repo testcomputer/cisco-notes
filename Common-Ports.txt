@@ -20,4 +20,6 @@ Private or Dynamic ports 49,152 - 65,535
 
 67 [UDP] Dynamic Host Configuration Protocol (DHCP) - Server
 
-68 [UDP] Trvial File Transfer Protocol (TFTP)
+68 [UDP] Dynamic Host Configuration Protocol (DHCP) - Client
+
+69 [UDP] Trvial File Transfer Protocol (TFTP)
