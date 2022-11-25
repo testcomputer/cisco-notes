@@ -1,0 +1,15 @@
+Well known ports 0-1023
+
+Registered ports 1024 - 49151
+
+Private or Dynamic ports 49,152 - 65,535
+
+
+
+20 - [TCP] FTP File Transfer Protocol FTP (Data)
+
+21 [TCP] File transfer prtocol FTP (control)
+
+22 TCP Secure Shell SSH
+
+23 Telnet Telecommunication Network
