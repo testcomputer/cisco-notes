@@ -27,3 +27,7 @@ Private or Dynamic ports 49,152 - 65,535
 80 [TCP] Hypertext Transfer Protocol (HTTP)
 
 110 [TCP] Post Office Protocol version 3 (POP3)
+
+135 [UDP/TCP] Microsoft EPMAP Microsoft EPMAP (End Point Mapper), also known as DCE/RPC Locator service, used to remotely manage services including DHCP server, DNS server, and WINS. Also used by DCOM
+
+137 NetBIOS-ns TCP UDP NetBios Name Servicc used for name registration and resolution 
