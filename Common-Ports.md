@@ -32,7 +32,6 @@ Private or Dynamic ports 49,152 - 65,535
 
 137 NetBIOS-ns TCP UDP NetBios Name Servicc used for name registration and resolution 
 
-
 UDP = User Datagram Protocol 
 TCP = Transmission Control Protocol
 \
@@ -46,3 +45,5 @@ TCP = Transmission Control Protocol
 Some applications may use both TCP and UDP. For example, DNS uses UDP when clients send requests to a DNS server. However, communication between two DNS servers always uses TCP.
 
 netstat protocol
+
+![Alt text](https://ccna-200-301.online/wp-content/uploads/2020/04/Socket-Pairs.png)
