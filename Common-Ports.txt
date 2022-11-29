@@ -42,3 +42,5 @@ TCP = Transmission Control Protocol
 161 [UDP] Simple Network Management Protocol (SNMP)
 
 443 [TCP] Hypertext Transfer Protocol Secure (HTTPS)
+
+Some applications may use both TCP and UDP. For example, DNS uses UDP when clients send requests to a DNS server. However, communication between two DNS servers always uses TCP.
