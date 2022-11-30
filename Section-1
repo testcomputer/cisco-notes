@@ -44,3 +44,15 @@ TFTP 69
 
 Layer 2 Address = MAC address
 Layer 3 address = IP address
+
+
+Hypertext Transfer Protocol (HTTP) is used to transfer webpages over the Internet.
+• File Transfer Protocol (FTP) is used to transfer files over a network.
+• Trivial File Transfer Protocol (TFTP) is used to transfer files over a network.
+• Dynamic Host Configuration Protocol (DHCP) is used to assign Internet Protocol (IP) addressing
+information to clients.
+• Domain Name System (DNS) is used to translate host names to IP addresses.
+• Simple Mail Transfer Protocol (SMTP) is used to send email messages.
+• Post Office Protocol 3 (POP3) is used to receive email messages.
+• Telnet is used to create a terminal connection to remote devices.
+• Secure Shell (SSH) is used to create a secure remote terminal connection to a networked device.
