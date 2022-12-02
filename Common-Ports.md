@@ -47,3 +47,6 @@ Some applications may use both TCP and UDP. For example, DNS uses UDP when clien
 netstat protocol
 
 ![Alt text](https://ccna-200-301.online/wp-content/uploads/2020/04/Socket-Pairs.png)
+
+
+![Alt text](https://ccna-200-301.online/wp-content/uploads/2020/04/Applications-that-use-UDP.png)
