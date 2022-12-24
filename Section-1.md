@@ -104,4 +104,4 @@ OSI Model
 
 # Header format
 
-alt="https://i0.wp.com/planetechusa.com/wp-content/uploads/2022/05/OSI-Model.png"
+(alt="https://i0.wp.com/planetechusa.com/wp-content/uploads/2022/05/OSI-Model.png")
