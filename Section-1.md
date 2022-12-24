@@ -96,3 +96,6 @@ Routed protocol: Frame-Relay
 Access-Lists
 
 NAT
+OSI Model
+OSI Model
+![alt text](https://i0.wp.com/planetechusa.com/wp-content/uploads/2022/05/OSI-Model.png)
