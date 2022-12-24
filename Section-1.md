@@ -104,8 +104,8 @@ OSI Model
 
 # Header format
 
-("https://i0.wp.com/planetechusa.com/wp-content/uploads/2022/05/OSI-Model.png")
+https://i0.wp.com/planetechusa.com/wp-content/uploads/2022/05/OSI-Model.png
 
-<a href="http://google.com.au/" rel="some text">![Foo](http://www.google.com.au/images/nav_logo7.png)</a>
+    <a href="http://website.example" rel="some text">![Foo](http://Copy-ImageLinkAndPostHere.png)</a>
 
 <a href="https://planetechusa.com/layer-2-vs-layer-3-switches/" rel="some text">![Foo](https://i0.wp.com/planetechusa.com/wp-content/uploads/2022/05/OSI-Model.png)</a>
