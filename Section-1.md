@@ -1,6 +1,6 @@
 TCP - Transmission Control Protocol
 UDP - User Diagram Protocol
-# of Ports 65,535
+[# of Ports 65,535]
 
 HTTP = TCP 80
 TFTP = UDP 69
@@ -104,7 +104,7 @@ OSI Model
 
 # Header format
 
-(alt="https://i0.wp.com/planetechusa.com/wp-content/uploads/2022/05/OSI-Model.png")
+("https://i0.wp.com/planetechusa.com/wp-content/uploads/2022/05/OSI-Model.png")
 
 <a href="http://google.com.au/" rel="some text">![Foo](http://www.google.com.au/images/nav_logo7.png)</a>
 
