@@ -107,3 +107,5 @@ OSI Model
 (alt="https://i0.wp.com/planetechusa.com/wp-content/uploads/2022/05/OSI-Model.png")
 
 <a href="http://google.com.au/" rel="some text">![Foo](http://www.google.com.au/images/nav_logo7.png)</a>
+
+<a href="http://google.com.au/" rel="some text">![Foo](https://i0.wp.com/planetechusa.com/wp-content/uploads/2022/05/OSI-Model.png)</a>
