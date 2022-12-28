@@ -134,3 +134,9 @@ https://i0.wp.com/planetechusa.com/wp-content/uploads/2022/05/OSI-Model.png
 <a href="https://www.azure.com" target="_blank"> <img src="https://raw.githubusercontent.com/pry0cc/axiom/master/screenshots/Referrals/azure_referral.png"screenshots/Referrals/azure_referral.png/>
 </a>
 </p>
+
+
+
+<a href="https://media.licdn.com/dms/image/C5622AQFjnRnjWkrhWA/feedshare-shrink_1280/0/1672210515938?e=1675296000&v=beta&t=jK8NSkuMzU4W12w94wd7XD0DYzZgTMyr4a29uFsvdUM"
+
+   ![image](https://user-images.githubusercontent.com/104815254/209775830-4ace504d-dc33-4ee2-b1ff-03b1ab56fc8b.png)
