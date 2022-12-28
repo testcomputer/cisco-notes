@@ -108,7 +108,7 @@ https://i0.wp.com/planetechusa.com/wp-content/uploads/2022/05/OSI-Model.png
 
     <a href="http://website.example" rel="some text">![Foo](http://Copy-ImageLinkAndPostHere.png)</a>
 
-  <center>
+<p align="center"> 
 <a href="https://planetechusa.com/layer-2-vs-layer-3-switches/" rel="some text">![Foo](https://i0.wp.com/planetechusa.com/wp-content/uploads/2022/05/OSI-Model.png)</a> 
 </center>
 
