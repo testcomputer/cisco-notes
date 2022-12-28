@@ -113,6 +113,23 @@ https://i0.wp.com/planetechusa.com/wp-content/uploads/2022/05/OSI-Model.png
 </a> 
 </p>
 
+  
+  
+<p align="center">
+<a href="https://academy.hackthebox.com/storage/modules/34/redesigned/net_overview.png/" rel="some test"> <img src="https://academy.hackthebox.com/storage/modules/34/redesigned/net_overview.png"
+</a>
+</p>
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
 
 <p align="center">
 <a href="https://www.azure.com" target="_blank"> <img src="https://raw.githubusercontent.com/pry0cc/axiom/master/screenshots/Referrals/azure_referral.png"screenshots/Referrals/azure_referral.png/>
