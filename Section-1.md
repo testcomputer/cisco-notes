@@ -149,4 +149,5 @@ https://i0.wp.com/planetechusa.com/wp-content/uploads/2022/05/OSI-Model.png
 
    
    
- <a href="https://user-images.githubusercontent.com/104815254/210702101-a4bbf6d8-0edc-4db2-9758-fad8d57b5ca7.png"
+ ![image](https://user-images.githubusercontent.com/104815254/210702406-5399bcf9-d5a5-417f-bc2d-409aff4effe7.png)
+<img src="https://media.geeksforgeeks.org/wp-content/uploads/subnetting.111111.jpg"
