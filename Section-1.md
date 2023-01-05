@@ -137,7 +137,7 @@ https://i0.wp.com/planetechusa.com/wp-content/uploads/2022/05/OSI-Model.png
 
 
 
-<a href="https://media.licdn.com/dms/image/C5622AQFjnRnjWkrhWA/feedshare-shrink_1280/0/1672210515938?e=1675296000&v=beta&t=jK8NSkuMzU4W12w94wd7XD0DYzZgTMyr4a29uFsvdUM"
+<img src="https://media.licdn.com/dms/image/C5622AQFjnRnjWkrhWA/feedshare-shrink_1280/0/1672210515938?e=1675296000&v=beta&t=jK8NSkuMzU4W12w94wd7XD0DYzZgTMyr4a29uFsvdUM"
 
    ![image](https://user-images.githubusercontent.com/104815254/209775830-4ace504d-dc33-4ee2-b1ff-03b1ab56fc8b.png)
 
@@ -146,3 +146,7 @@ https://i0.wp.com/planetechusa.com/wp-content/uploads/2022/05/OSI-Model.png
    *Lab Practice* 
    
    ARP Requests
+
+   
+   
+ <a href="https://user-images.githubusercontent.com/104815254/210702101-a4bbf6d8-0edc-4db2-9758-fad8d57b5ca7.png"
