@@ -151,3 +151,11 @@ https://i0.wp.com/planetechusa.com/wp-content/uploads/2022/05/OSI-Model.png
    
  ![image](https://user-images.githubusercontent.com/104815254/210702406-5399bcf9-d5a5-417f-bc2d-409aff4effe7.png)
 <img src="https://media.geeksforgeeks.org/wp-content/uploads/subnetting.111111.jpg"
+
+
+  Network Fundamentals: Routers, switches, cabling, TCP and UDP, IPv4 and IPv6
+    IP Connectivity: IP routing, OSPFv2
+    IP Services: NTP, DHCP, QoS, SNMP
+    Security Fundamentals: VPNs, wireless security, port security
+    Network Access: VLANs and trunking, EtherChannel
+    Automation and Programmability: REST APIs, Puppet, Chef, JSON, SDN
