@@ -159,3 +159,8 @@ https://i0.wp.com/planetechusa.com/wp-content/uploads/2022/05/OSI-Model.png
     Security Fundamentals: VPNs, wireless security, port security
     Network Access: VLANs and trunking, EtherChannel
     Automation and Programmability: REST APIs, Puppet, Chef, JSON, SDN
+
+
+Describe characteristics of REST-based APIs (CRUD, HTTP verbs, and data encoding).
+Recognize the capabilities of configuration management mechanisms Puppet, Chef, and Ansible.
+Interpret JSON encoded data
