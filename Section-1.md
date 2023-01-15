@@ -164,3 +164,8 @@ https://i0.wp.com/planetechusa.com/wp-content/uploads/2022/05/OSI-Model.png
 Describe characteristics of REST-based APIs (CRUD, HTTP verbs, and data encoding).
 Recognize the capabilities of configuration management mechanisms Puppet, Chef, and Ansible.
 Interpret JSON encoded data
+
+
+# show port-security [interface g1/1]	port status, violation mode, max/total MACs,…
+# show port-security address	Secure MACs on ports.
+# show errdisable recovery	Check if auto recovery is enabled. Disabled by default.
