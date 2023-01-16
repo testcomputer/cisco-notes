@@ -169,3 +169,11 @@ Interpret JSON encoded data
 # show port-security [interface g1/1]	port status, violation mode, max/total MACs,…
 # show port-security address	Secure MACs on ports.
 # show errdisable recovery	Check if auto recovery is enabled. Disabled by default.
+
+
+firewall	layer 7
+wireless access point	layer 2
+wireless LAN controller	layer 2
+switch	layer 2
+router	layer 3
+bridge	layer 2
