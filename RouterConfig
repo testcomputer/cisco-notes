@@ -61,3 +61,10 @@ Given that ssh works but telnet doesn't, there are a few options:
 
 
 Packet Tracer practice. Record ALL commands and practice in a virtual environment
+
+
+Router>  <– User EXEC Mode
+Router#  <– Privileged EXEC mode
+Router(config)#  <– Global Configuration Mode
+Router(config-if)# <– Interface Configuration Mode
+Router(config-line)# <– Line Configuration Mode
