@@ -104,4 +104,77 @@ OSI Model
 
 # Header format
 
-(alt="https://i0.wp.com/planetechusa.com/wp-content/uploads/2022/05/OSI-Model.png")
+https://i0.wp.com/planetechusa.com/wp-content/uploads/2022/05/OSI-Model.png
+
+    <a href="http://website.example" rel="some text">![Foo](http://Copy-ImageLinkAndPostHere.png)</a>
+
+<p align="center"> 
+<a href="https://planetechusa.com/layer-2-vs-layer-3-switches/" rel="some text"> <img src="https://i0.wp.com/planetechusa.com/wp-content/uploads/2022/05/OSI-Model.png"
+</a> 
+</p>
+
+  
+  
+<p align="center">
+<a href="https://academy.hackthebox.com/storage/modules/34/redesigned/net_overview.png/" rel="some test"> <img src="https://academy.hackthebox.com/storage/modules/34/redesigned/net_overview.png"
+</a>
+</p>
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+
+<p align="center">
+<a href="https://www.azure.com" target="_blank"> <img src="https://raw.githubusercontent.com/pry0cc/axiom/master/screenshots/Referrals/azure_referral.png"screenshots/Referrals/azure_referral.png/>
+</a>
+</p>
+
+
+
+<img src="https://media.licdn.com/dms/image/C5622AQFjnRnjWkrhWA/feedshare-shrink_1280/0/1672210515938?e=1675296000&v=beta&t=jK8NSkuMzU4W12w94wd7XD0DYzZgTMyr4a29uFsvdUM"
+
+   ![image](https://user-images.githubusercontent.com/104815254/209775830-4ace504d-dc33-4ee2-b1ff-03b1ab56fc8b.png)
+
+   
+   Practice LAN Ethernet switching
+   *Lab Practice* 
+   
+   ARP Requests
+
+   
+   
+ ![image](https://user-images.githubusercontent.com/104815254/210702406-5399bcf9-d5a5-417f-bc2d-409aff4effe7.png)
+<img src="https://media.geeksforgeeks.org/wp-content/uploads/subnetting.111111.jpg"
+
+
+  Network Fundamentals: Routers, switches, cabling, TCP and UDP, IPv4 and IPv6
+    IP Connectivity: IP routing, OSPFv2
+    IP Services: NTP, DHCP, QoS, SNMP
+    Security Fundamentals: VPNs, wireless security, port security
+    Network Access: VLANs and trunking, EtherChannel
+    Automation and Programmability: REST APIs, Puppet, Chef, JSON, SDN
+
+
+Describe characteristics of REST-based APIs (CRUD, HTTP verbs, and data encoding).
+Recognize the capabilities of configuration management mechanisms Puppet, Chef, and Ansible.
+Interpret JSON encoded data
+
+
+# show port-security [interface g1/1]	port status, violation mode, max/total MACs,…
+# show port-security address	Secure MACs on ports.
+# show errdisable recovery	Check if auto recovery is enabled. Disabled by default.
+
+
+firewall	layer 7
+wireless access point	layer 2
+wireless LAN controller	layer 2
+switch	layer 2
+router	layer 3
+bridge	layer 2
