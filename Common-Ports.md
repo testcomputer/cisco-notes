@@ -42,6 +42,8 @@ TCP = Transmission Control Protocol
 
 443 [TCP] Hypertext Transfer Protocol Secure (HTTPS)
 
+S1# delete vlan.dat (hit ‘enter’ to accept defaults) [Note: Only do this on a switch]
+
 Some applications may use both TCP and UDP. For example, DNS uses UDP when clients send requests to a DNS server. However, communication between two DNS servers always uses TCP.
 
 netstat protocol
