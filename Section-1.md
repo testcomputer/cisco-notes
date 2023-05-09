@@ -183,3 +183,6 @@ bridge	layer 2
 Reformat. Stage. Commit. Push.
 
 New piece added. Autosaved. 
+
+
+Study event logger.
