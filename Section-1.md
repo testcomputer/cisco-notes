@@ -186,3 +186,66 @@ New piece added. Autosaved.
 
 
 Study event logger.
+
+
+    ip dhcp pool <name>: Configures a DHCP address pool with the specified name.
+
+    network <network-address> <subnet-mask>: Specifies the network address and subnet mask for the DHCP pool.
+
+    default-router <gateway-address>: Specifies the default gateway (router) for DHCP clients.
+
+    dns-server <dns-address>: Specifies the DNS server address for DHCP clients.
+
+    lease <duration>: Sets the lease duration for IP addresses assigned by DHCP.
+
+    ip dhcp excluded-address <start-address> <end-address>: Excludes specific IP addresses or ranges from being assigned by DHCP.
+
+    interface <interface-type> <interface-number>: Enters interface configuration mode for the specified interface.
+
+    ip address <ip-address> <subnet-mask>: Assigns an IP address and subnet mask to an interface.
+
+    shutdown: Disables an interface.
+
+    no shutdown: Enables an interface.
+
+    vlan <vlan-id>: Enters VLAN configuration mode to configure VLANs on a switch.
+
+    name <vlan-name>: Assigns a name to a VLAN.
+
+    switchport mode access: Configures a switch port as an access port, allowing only untagged frames in a single VLAN.
+
+    switchport access vlan <vlan-id>: Assigns an access VLAN to a switch port.
+
+    switchport trunk encapsulation <encapsulation-type>: Configures the encapsulation method for a trunk port.
+
+    switchport trunk allowed vlan <vlan-list>: Specifies the list of VLANs allowed on a trunk port.
+
+    show ip interface brief: Displays a brief summary of the router's IP interface configuration and status.
+
+    show vlan: Displays information about VLANs configured on a switch.
+
+    show running-config: Displays the current running configuration of the device.
+
+    show startup-config: Displays the contents of the startup configuration, which is the configuration that will be loaded when the device boots up.
+
+    ping <ip-address>: Sends ICMP echo requests to a specified IP address to test connectivity.
+
+    traceroute <ip-address>: Traces the route that packets take to reach a destination IP address.
+
+    telnet <ip-address>: Initiates a telnet connection to a remote device with the specified IP address.
+
+    ssh <ip-address>: Initiates an SSH (Secure Shell) connection to a remote device with the specified IP address.
+
+    clear arp: Clears the Address Resolution Protocol (ARP) cache on the device.
+
+    clear ip dhcp binding: Clears the DHCP binding database, removing all DHCP lease information.
+
+    reload: Reloads the device, restarting it and loading the startup configuration.
+
+    end: Exits from configuration mode and returns to privileged EXEC mode.
+
+    copy running-config startup-config: Saves the running configuration to the startup configuration, ensuring changes persist across reboots.
+
+    write memory: Alternative command to save the running configuration to the startup configuration.
+
+    
