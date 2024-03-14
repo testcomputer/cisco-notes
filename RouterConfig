@@ -68,3 +68,9 @@ Router#  <– Privileged EXEC mode
 Router(config)#  <– Global Configuration Mode
 Router(config-if)# <– Interface Configuration Mode
 Router(config-line)# <– Line Configuration Mode
+
+enable
+configure terminal
+ip address 0.0.0.0 0.0.0.0 [default device/modem]
+
+
