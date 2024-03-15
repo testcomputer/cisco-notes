@@ -249,3 +249,5 @@ Study event logger.
     write memory: Alternative command to save the running configuration to the startup configuration.
 
     
+
+Copy running-config startup-config [is another way to save]
